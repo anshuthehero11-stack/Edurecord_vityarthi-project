@@ -96,6 +96,9 @@ course Maths grade 72.0
 _Code and Output Screenshot:_
 
 ![image alt](https://github.com/anshuthehero11-stack/Edurecord_vityarthi-project/blob/dcf36a04c6387546622bb36d64e2a1c6b187b5dd/CODE1.png)
+![image alt](https://github.com/anshuthehero11-stack/Edurecord_vityarthi-project/blob/ac142d14a4a5fc2afe0eb8402d0a1d3e180c3a6e/CODE2.png)
+![image alt](https://github.com/anshuthehero11-stack/Edurecord_vityarthi-project/blob/ac142d14a4a5fc2afe0eb8402d0a1d3e180c3a6e/Output1.png)
+![image alt](https://github.com/anshuthehero11-stack/Edurecord_vityarthi-project/blob/ac142d14a4a5fc2afe0eb8402d0a1d3e180c3a6e/Output3.png)
 
 
 
