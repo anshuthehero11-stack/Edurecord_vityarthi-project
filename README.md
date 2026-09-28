@@ -94,10 +94,10 @@ course Maths grade 72.0
 
 ## Screenshots
 _Code and Output Screenshot:_
-```
+
 ![image alt](https://github.com/anshuthehero11-stack/Edurecord_vityarthi-project/blob/dcf36a04c6387546622bb36d64e2a1c6b187b5dd/CODE1.png)
 
-```
+
 
 
 ## Author
